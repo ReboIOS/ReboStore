@@ -48,8 +48,8 @@ routes = [
     url: './pages/picsart.php',
   },
   {
-    path: '/install',
-    url: './pages/install.php',
+    path: '/kinemaster',
+    url: './pages/kinemaster.php',
   },
   {
     path: '/theming',
