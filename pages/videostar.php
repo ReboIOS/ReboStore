@@ -51,7 +51,7 @@
         About videostar++
       </div>
       <div class="block block-strong inset elevation-12">
-        <pre>Hacked</pre>
+        <pre>Hacked - All Features Unlocked</pre>
       </div>
       <div class="list inset elevation-12">
         <ul>
