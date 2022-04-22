@@ -48,7 +48,7 @@ routes = [
     url: './pages/picsart.php',
   },
   {
-    path: '/kinemaster',
+    path: '/Kinemaster',
     url: './pages/kinemaster.php',
   },
   {
