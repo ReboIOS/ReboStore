@@ -51,8 +51,7 @@
         About videostar++
       </div>
       <div class="block block-strong inset elevation-12">
-        <pre>ڤیدیۆستار بە هاکراوی 
-هەموو بەشەکان کڕاون بەڵام کۆد ئیشناکات</pre>
+        <pre>Hacked</pre>
       </div>
       <div class="list inset elevation-12">
         <ul>
