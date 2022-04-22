@@ -28,6 +28,10 @@ routes = [
     url: './pages/pubg.php',
   },
   {
+    path: '/gta',
+    url: './pages/gta.php',
+  },
+  {
     path: '/8ball',
     url: './pages/8ball.php',
   },
