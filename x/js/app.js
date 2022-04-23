@@ -37,7 +37,10 @@ var infoView = app.views.create('#view-info', {
   url: '/info/'
 });
 
-var settingsView = app.views.create('#view-search', {
-  url: '/search/'
+var settingsView = app.views.create('#view-iphone', {
+  url: '/iphone/'
 });
 
+var settingsView = app.views.create('#view-android', {
+  url: '/android/'
+});
