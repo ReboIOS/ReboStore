@@ -1,6 +1,6 @@
 gsap.registerPlugin(ScrollTrigger);
 
-const images = gsap.utils.toArray('img');
+const images = gsap.utils.toArray('imgs');
 const loader = document.querySelector('.loader--text');
 const updateProgress = (instance) =>
 loader.textContent = `${Math.round(instance.progressedCount * 100 / images.length)}%`;
