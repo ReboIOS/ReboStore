@@ -12,15 +12,15 @@
             <key>IsRemovable</key>
             <true/>
             <key>Label</key>
-            <string>ڕێبۆ ستۆر‌‌</string>
+            <string>Rebo Store‌‌</string>
             <key>PayloadDescription</key>
             <string>Configures Web Clip</string>
             <key>PayloadDisplayName</key>
-            <string>ڕێبۆ ستۆر</string>
+            <string>Rebo Store‌‌</string>
             <key>PayloadIdentifier</key>
             <string>com.rebostore</string>
             <key>PayloadOrganization</key>
-            <string>ڕێبۆ ستۆر‌‌</string>
+            <string>Rebo Store‌‌‌‌</string>
             <key>PayloadType</key>
             <string>com.apple.webClip.managed</string>
             <key>PayloadUUID</key>
@@ -30,13 +30,13 @@
             <key>Precomposed</key>
             <true/>
             <key>URL</key>
-            <string>https://www.rebo-store.com/app</string>
+            <string>https://www.rebo-store.com</string>
         </dict>
     </array>
     <key>PayloadDescription</key>
     <string>سپاس بۆ دابەزاندنی ڕێبۆ ستۆر</string>
     <key>PayloadDisplayName</key>
-    <string>ڕێبۆ ستۆر</string>
+    <string>Rebo Store‌‌</string>
     <key>PayloadIdentifier</key>
     <string>com.rebostore</string>
     <key>PayloadOrganization</key>
