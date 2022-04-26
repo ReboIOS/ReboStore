@@ -51,7 +51,8 @@
         About PubgHack
       </div>
       <div class="block block-strong inset elevation-12">
-        <pre>پۆبجی بە هاکراوی لە ئەکاونتی شەخسی مەدە</pre>
+        <pre>1-No Recoil 2-Aimbot360 3-No Grass 
+4-Slider 5-Damage 6-AntiBan</pre>
       </div>
       <div class="list inset elevation-12">
         <ul>
