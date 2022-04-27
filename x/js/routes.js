@@ -32,6 +32,10 @@ routes = [
     url: './pages/gta.php',
   },
   {
+    path: '/org',
+    url: './pages/org.php',
+  },
+  {
     path: '/8ball',
     url: './pages/8ball.php',
   },
