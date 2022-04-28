@@ -28,6 +28,32 @@
 </head>
 
 <body>
+<div class="popup">
+<div class="popup-content">
+ <h1>✖</h1>
+  <center>
+   <img style="margin-top: 5%; border-radius: 20%;" width="200" class="elevation-12" src="icon.png">
+    <br><br>
+      <div class="item-text">Download ReboStore 📥</div>
+       <p> ڕیبۆ ستۆر دابەزێنە 📥 </p>
+        </center>
+          <a class="button1" role="button" href="https://www.rebo-store.com/ReboStore.mobileconfig">Download</a>
+        </div>
+    </div>
+
+    <script>
+        const popup = document.querySelector('.popup');
+        const x = document.querySelector('.popup-content h1')
+
+        window.addEventListener('load', () => {
+            popup.classList.add('showPopup');
+            popup.childNodes[1].classList.add('showPopup');
+        })
+        x.addEventListener('click', () => {
+            popup.classList.remove('showPopup');
+            popup.childNodes[1].classList.remove('showPopup');
+        })
+    </script>
     <div id="app">
         <div class="statusbar"></div>
         <div class="panel panel-left panel-cover theme-dark">
