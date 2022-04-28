@@ -76,13 +76,6 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-    background-color: #f1f1f1;
-}
 
 .content {
     padding: 0 5rem;
