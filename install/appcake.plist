@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.iphonecake.appcakej</string>
+				<string>com.rebostore.appcakej</string>
 				<key>bundle-version</key>
 				<string>7.1.3</string>
 				<key>kind</key>
