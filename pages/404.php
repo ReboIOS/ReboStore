@@ -1,16 +1,15 @@
-<html lang="en">
-<head><meta charset="utf-8">
-    
-    <!-- Halfmoon CSS -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>404</title>
 <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/css/halfmoon-variables.min.css" rel="stylesheet" />
-<!--
   Or,
   Use the following (no variables, supports IE11):
   <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/css/halfmoon.min.css" rel="stylesheet" />
--->
+</head>
+<body>
+  <div class="page">
 
-<!-- Halfmoon JS -->
-<script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>404</title>
@@ -39,12 +38,7 @@ padding-top: 250px;
     font-family: kurds;
 
 }
-
-@font-face {
-  font-family: kurds;
-  src: url(https://jbtools.co/final/aseets/fonts/4.ttf);
-
-}
   </style>
+<script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
 </body>
 </html>
