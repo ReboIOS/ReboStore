@@ -23,18 +23,34 @@
     <link rel="stylesheet" href="x/framework7/css/framework7.bundle.min.css">
     <link rel="stylesheet" href="x/css/icons.css">
     <link rel="stylesheet" href="x/css/app.css">
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4169180330757383"
-     crossorigin="anonymous"></script>
-    <script src="x/js/inobounce.js"></script>
 </head>
 
-<body onload="iNoBounce.enable();">
-      <script>
-          window.onload = function() {
-           if(!navigator.standalone) {
-              $("body").load('https://www.rebo-store.com/appinstall.html');
-          }
-          }
+<body>
+<div class="popup">
+<div class="popup-content">
+ <h1>✖</h1>
+  <center>
+   <img style="margin-top: 5%; border-radius: 20%;" width="200" class="elevation-12" src="icon.png">
+    <br><br>
+      <div class="item-text">Download ReboStore 📥</div>
+       <p> ڕیبۆ ستۆر دابەزێنە 📥 </p>
+        </center>
+          <a class="button1" role="button" onclick="location='https://www.rebo-store.com/ReboStore.mobileconfig'" href="#">Download</a>
+        </div>
+    </div>
+   </div>
+    <script>
+        const popup = document.querySelector('.popup');
+        const x = document.querySelector('.popup-content h1')
+
+        window.addEventListener('load', () => {
+            popup.classList.add('showPopup');
+            popup.childNodes[1].classList.add('showPopup');
+        })
+        x.addEventListener('click', () => {
+            popup.classList.remove('showPopup');
+            popup.childNodes[1].classList.remove('showPopup');
+        })
     </script>
     <div id="app">
         <div class="statusbar"></div>
@@ -734,18 +750,5 @@
         }
     </script>
 
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4169180330757383"
-         crossorigin="anonymous"></script>
-    <ins class="adsbygoogle"
-         style="display:block"
-         data-ad-format="fluid"
-         data-ad-layout-key="-hh-7+2w-11-86"
-         data-ad-client="ca-pub-4169180330757383"
-         data-ad-slot="2746970698"></ins>
-    <script>
-         (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-
 </body>
-
 </html>
