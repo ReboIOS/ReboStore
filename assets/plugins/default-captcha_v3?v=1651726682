@@ -1,0 +1,2 @@
+function do_captcha(){if(typeof grecaptcha!=='undefined'){grecaptcha.ready(function(){grecaptcha.execute('',{action:'homepage'}).then(function(token){$(".gtoken").val(token);});});}}
+if(typeof grecaptcha!=='undefined'){grecaptcha.ready(function(){do_captcha();});}

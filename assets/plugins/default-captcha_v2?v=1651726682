@@ -1,0 +1,2 @@
+function verify_captcha_v2(){loading.open();$.ajax({type:'post',dataType:'json',url:base_url+'page/captcha-v2',data:$('#form_captcha_v2').serialize()}).done(function(response){loading.close();if(response.status!=='success'){grecaptcha.reset();}
+message(response.status,response.message,1);}).fail(function(){grecaptcha.reset();loading().close();message('error','Something went wrong! Please try again.');});}
