@@ -16,6 +16,10 @@ routes = [
     url: './pages/odyssey.php',
   },
   {
+    path: '/tiktok',
+    url: './pages/tiktok.php',
+  },
+  {
     path: '/unc0ver',
     url: './pages/unc0ver.php',
   },
