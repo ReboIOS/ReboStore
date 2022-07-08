@@ -8,12 +8,20 @@ routes = [
     url: '/section/{{id}}',
   },
   {
+    path: '/new',
+    url: './pages/new.php',
+  },
+  {
     path: '/appleid',
     url: './pages/appleid.php',
   },
   {
     path: '/odyssey',
     url: './pages/odyssey.php',
+  },
+  {
+    path: '/procam',
+    url: './pages/procam.php',
   },
   {
     path: '/tiktok',
