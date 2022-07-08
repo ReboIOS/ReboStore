@@ -39,7 +39,7 @@
                   "icon f7-icons color-white">cloud_download</i></a>
                 </div>
                 <div class="item-subtitle">
-                  Hacked
+                  Free
                 </div>
               </div>
             </div>
