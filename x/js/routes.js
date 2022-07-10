@@ -21,6 +21,33 @@ routes = [
   },
   {
     path: '/procam',
+routes = [
+  {
+    path: '/',
+    url: '/store/',
+  },
+  {
+    path: '/:id/',
+    url: '/section/{{id}}',
+  },
+  {
+    path: '/new',
+    url: './pages/new.php',
+  },
+  {
+    path: '/appleid',
+    url: './pages/appleid.php',
+  },
+  {
+    path: '/odyssey',
+    url: './pages/odyssey.php',
+  },
+  {
+    path: '/bolt',
+    url: './pages/bolt.php',
+  },
+  {
+    path: '/procam',
     url: './pages/procam.php',
   },
   {
