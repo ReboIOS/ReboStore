@@ -25,6 +25,27 @@
         <ul>
           <li class="media-item">
                                 <li class="media-item">
+                                    <a href="/ppsspp" class="item-link">
+                                        <div class="item-content">
+                                            <div class="item-media">
+                                                <img src="img/ppsspp.png" class="appiconx elevation-5"></div>
+                                            <div class="item-inner">
+                                                <div class="item-title-row">
+                                                    <div class="item-title">PPSSPP</div>
+                                                </div>
+                                                <div class="chip">
+                                                    <div class="chip-media bg-color-blue"><i class="icon f7-icons">gear</i></div>
+                                                    <div class="chip-label">1.10.3-1201</div>
+                                                </div>
+                                                <div class="chip">
+                                                    <div class="chip-media bg-color-blue"><i class="icon f7-icons">download</i></div>
+                                                    <div class="chip-label">16.53 MB</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="media-item">
                                     <a href="/bolt" class="item-link">
                                         <div class="item-content">
                                             <div class="item-media">
