@@ -1,7 +1,7 @@
 routes = [
   {
     path: '/',
-    url: '/store/',
+    url: '/index/',
   },
   {
     path: '/:id/',
