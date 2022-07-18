@@ -33,7 +33,7 @@
                   <div class="item-title">
                     Picsart Pro
                   </div><a href=
-                  "itms-services://?action=download-manifest&url=https://www.rebo-store.com/install/picsart.plist"
+                  "itms-services://?action=download-manifest&url=https://www.rebo-store.ml/install/picsart.plist"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=

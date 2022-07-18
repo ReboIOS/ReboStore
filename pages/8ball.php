@@ -32,7 +32,7 @@
                 <div class="item-title-row">
                   <div class="item-title">
                     8 BallPool Hack
-                  </div><a href="itms-services://?action=download-manifest&url=https://www.rebo-store.com/install/8ballpool.plist"
+                  </div><a href="itms-services://?action=download-manifest&url=https://www.rebo-store.ml/install/8ballpool.plist"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
