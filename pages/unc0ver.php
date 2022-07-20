@@ -33,7 +33,7 @@
                   <div class="item-title">
                     Unc0ver
                   </div>
-<a href="itms-services://?action=download-manifest&url=https://www.rebo-store.ml/install/unc0ver.plist"
+<a href="itms-services://?action=download-manifest&url=https://www.rebostore.cf/install/unc0ver.plist"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=

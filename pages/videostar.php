@@ -32,7 +32,7 @@
                 <div class="item-title-row">
                   <div class="item-title">
                     VideoStar++
-                  </div><a href="itms-services://?action=download-manifest&url=https://www.rebo-store.ml/install/videostar.plist"
+                  </div><a href="itms-services://?action=download-manifest&url=https://www.rebostore.cf/install/videostar.plist"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=

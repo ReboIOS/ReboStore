@@ -20,7 +20,7 @@
   <p class="text2"> ئەم پەڕەیە نەدۆزرایەوە </p>
 <center>
 
-   <a href="https://www.rebo-store.com"> <button class="btn btn-primary" type="button">Home</button></a>
+   <a href="https://www.rebostore.cf"> <button class="btn btn-primary" type="button">Home</button></a>
 
 </center>
   <style>
