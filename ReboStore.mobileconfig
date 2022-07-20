@@ -30,7 +30,7 @@
             <key>Precomposed</key>
             <true/>
             <key>URL</key>
-            <string>https://www.rebostore.cf</string>
+            <string>http://www.rebostore.cf</string>
         </dict>
     </array>
     <key>PayloadDescription</key>
