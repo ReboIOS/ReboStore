@@ -30,7 +30,7 @@
             <key>Precomposed</key>
             <true/>
             <key>URL</key>
-            <string>https://www.rebo-store.com</string>
+            <string>https://www.rebostore.cf</string>
         </dict>
     </array>
     <key>PayloadDescription</key>
@@ -38,7 +38,7 @@
     <key>PayloadDisplayName</key>
     <string>Rebo Store‌‌</string>
     <key>PayloadIdentifier</key>
-    <string>com.rebostore</string>
+    <string>cf.rebostore</string>
     <key>PayloadOrganization</key>
     <string>Rebo</string>
     <key>PayloadRemovalDisallowed</key>
