@@ -28,7 +28,7 @@
                                     <a href="/ppsspp" class="item-link">
                                         <div class="item-content">
                                             <div class="item-media">
-                                                <img src="img/ppsspp.png" class="appiconx elevation-5"></div>
+                                                <img src="img/ppsspp.png" class="appiconx elevation-5 animated zoomIn"></div>
                                             <div class="item-inner">
                                                 <div class="item-title-row">
                                                     <div class="item-title">PPSSPP</div>
@@ -49,7 +49,7 @@
                                     <a href="/bolt" class="item-link">
                                         <div class="item-content">
                                             <div class="item-media">
-                                                <img src="img/bolt.png" class="appiconx elevation-5"></div>
+                                                <img src="img/bolt.png" class="appiconx elevation-5 animated zoomIn"></div>
                                             <div class="item-inner">
                                                 <div class="item-title-row">
                                                     <div class="item-title">Bolt</div>
@@ -70,7 +70,7 @@
                                     <a href="/procam" class="item-link">
                                         <div class="item-content">
                                             <div class="item-media">
-                                                <img src="img/procam.png" class="appiconx elevation-5"></div>
+                                                <img src="img/procam.png" class="appiconx elevation-5 animated zoomIn"></div>
                                             <div class="item-inner">
                                                 <div class="item-title-row">
                                                     <div class="item-title">ProCam</div>
