@@ -25,7 +25,7 @@
         <ul>
         <center>
         <h1>AppleID</h1>
-       <img  style="margin-top: 5%; border-radius: 5%;" width="200" class="elevation-12" src="./img/appleid.png"><br>
+       <img  style="margin-top: 5%; border-radius: 5%;" width="200" class="elevation-12 animated zoomIn" src="./img/appleid.png"><br>
        <p>Email: 🔒</p>
        <p>Pass: 🔒</p>
          </center>

@@ -27,7 +27,7 @@
             <div class="item-content">
               <div class="item-media"><img src=
               "./img/minecraft.png"
-              class="appicon elevation-5"></div>
+              class="appicon elevation-5 animated zoomIn"></div>
               <div class="item-inner">
                 <div class="item-title-row">
                   <div class="item-title">
