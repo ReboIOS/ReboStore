@@ -86,3 +86,19 @@
   align-items: center;
   border-radius: 40%;
 }
+
+.rotate {
+    animation-name: rotate-s-loader;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+}
+
+@keyframes rotate-s-loader {
+    from {
+        transform: rotate(0);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
