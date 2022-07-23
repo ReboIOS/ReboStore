@@ -42,7 +42,7 @@ $(document).ready(function() {
         $.ajax({
           type:"POST",      
           dataType:'json',
-          url:'tiktok-service.php',
+          url:'http://www.rebostore.cf/tiktok/tiktok-service.php',
           data:{url:vid_url},
           // success function 
           success:function(data){
