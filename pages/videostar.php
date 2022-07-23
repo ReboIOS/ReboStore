@@ -84,7 +84,7 @@
                 <div class="item-title">
                   Download
                 </div>
-                <div id="result"> </div>
+                <div class="item-after" id="result"> </div>
               </div>
             </div>
           </li>
