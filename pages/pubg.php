@@ -51,8 +51,9 @@
         About PubgHack
       </div>
       <div class="block block-strong inset elevation-12">
-        <pre>1-No Recoil 2-Aimbot360 3-No Grass 
-4-Slider 5-Damage 6-AntiBan</pre>
+        <pre>ESP | رادار
+AIMBOT | ايمبوت
+Fast Bullet | طلقة سريع</pre>
       </div>
       <div class="list inset elevation-12">
         <ul>
