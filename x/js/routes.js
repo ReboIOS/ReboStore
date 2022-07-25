@@ -20,6 +20,10 @@ routes = [
     url: './pages/odyssey.php',
   },
   {
+    path: '/esign',
+    url: './pages/esign.php',
+  },
+  {
     path: '/ppsspp',
     url: './pages/ppsspp.php',
   },
