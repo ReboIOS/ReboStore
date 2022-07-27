@@ -1,4 +1,4 @@
-
+routes = [
 app.request.promise.json('/search')
                     .then(function (res) {
                         var items = res.data;
@@ -58,3 +58,4 @@ app.request.promise.json('/search')
             }
         }
     },
+];
