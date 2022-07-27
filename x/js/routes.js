@@ -101,7 +101,7 @@ app.request.promise.json('/search')
                                 return found; //return array with mathced indexes
                             },
                             // List item Template7 template
-                            itemTemplate: `<li class="media-item"><a href="/appdown/{{id}}" class="item-link">
+                            itemTemplate: `<li class="media-item"><a href="/pages/{{id}}" class="item-link">
                       <div class="item-content">
                           <div class="item-media">
                               <img src="/{{icon}}"
@@ -143,6 +143,11 @@ app.request.promise.json('/search')
             }
         }
     },
+
+  {
+    path: '/pages/:id',
+    url: './pages/{{id}}',
+  },
 
   {
     path: '/theming',
