@@ -1,43 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://up-ipa.com/uploads/up-ipa.comVideo-Star-Tweakdoor-com-8-3-2-1650362252_cfcae.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>http://www.rebostore.cf/icon.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>http://www.rebostore.cf/icon.png</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>com.rebo.videostar</string>
-				<key>bundle-version</key>
-				<string>1.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>videostar</string>
-			</dict>
-		</dict>
-	</array>
-</dict>
-</plist>
+      <plist version="1.0">
+      <dict>
+         <key>items</key>
+         <array>
+            <dict>
+               <key>assets</key>
+               <array>
+                  <dict>
+                     <key>kind</key>
+                     <string>software-package</string>
+                     <key>url</key>
+                     <string>https://www.installonair.com/app-download/3z8Aa1</string>
+                     
+                     </dict>
+                  <dict>
+                                    <key>kind</key>
+                                    <string>display-image</string>
+                                    <key>needs-shine</key>
+                                    <false/>
+                                    <key>url</key>
+                                    <string>https://i.ibb.co/wdqyR8Q/84-FA11-AB-2721-477-F-A0-D4-EC820238-E29-B.png</string>
+                            </dict>
+               </array>
+               <key>metadata</key>
+               <dict>
+                  <key>bundle-identifier</key>
+                  <string>com.rebostore.videostar</string>
+                  <key>bundle-version</key>
+                  <string>977</string>
+                  <key>kind</key>
+                  <string>software</string>
+                  <key>title</key>
+                  <string>Video Star</string>
+               </dict>
+            </dict>
+         </array>
+      </dict>
+      </plist>
