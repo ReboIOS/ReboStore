@@ -138,6 +138,15 @@
                         <h1 class="header">Rebo Store</h1>
                         <div class="elevation-12 list inset media-list">
                             <ul>
+            <li>  
+               <input style="text-align: center;" type="number" id="code" maxlength="3" onkeypress="is_num(event);" class="block-title block-title-medium" aria-describedby="basic-addon1" placeholder="Search..."/>
+                          
+              <input class="button button-fill convert-form-to-data"  type="button" id="get" value="Get" data-disable-with="Search" />
+            </li>
+           </ul>
+                    </div>
+                        <div class="elevation-12 list inset media-list">
+                            <ul>
                                 <li>
                                     <a href="/theming" class="item-content item-link">
                                         <div class="item-media">
@@ -886,6 +895,7 @@ Vs Working Codes</div>
     <script src="x/js/routes.js"></script>
     <script src="x/js/app.js"></script>
     <script src="x/js/page.js"></script>
+    <script src="x/js/code.js"></script>
     <script type="text/javascript">
         if (localStorage.getItem('theme')) {
             $$("body").removeClass('theme-dark').removeClass('theme-light').removeClass('theme-dark-2').removeClass('theme-oled').addClass(localStorage.getItem('theme'));
