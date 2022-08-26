@@ -14,7 +14,11 @@ function callLinks (){
     case "92":
       window.location.href = "https://apps.apple.com/us/app/filmic-pro-video-camera/id436577167"
       break;
-      
+
+    case "63":
+      window.location.href = "https://apps.apple.com/us/app/3d-anatomy/id695187101"
+      break;
+
   
     }
   }
