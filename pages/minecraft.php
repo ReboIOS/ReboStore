@@ -33,7 +33,7 @@
                   <div class="item-title">
                     Minecraft
                   </div><a href=
-                  "itms-services://?action=download-manifest&url=https://www.rebostore.cf/install/minecraft.plist"
+                  "itms-services://?action=download-manifest&url=https://www.reboo.store/install/minecraft.plist"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=

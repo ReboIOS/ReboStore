@@ -33,7 +33,7 @@
                   <div class="item-title">
                     PubgHack
                   </div><a href=
-                  "itms-services://?action=download-manifest&url=https://rebostore.cf/install/pubg.plist"
+                  "itms-services://?action=download-manifest&url=https://reboo.store/install/pubg.plist"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=

@@ -32,7 +32,7 @@
                 <div class="item-title-row">
                   <div class="item-title">
                     Bolt
-                  </div><a href="itms-services://?action=download-manifest&url=https://www.rebostore.cf/install/bolt.plist"
+                  </div><a href="itms-services://?action=download-manifest&url=https://www.reboo.store/install/bolt.plist"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
